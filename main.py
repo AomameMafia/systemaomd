@@ -1,5 +1,5 @@
 from phone import phone_al
-YOUR_BOT_TOKEN = "6841906698:AAHqCyrJ6LPDF1PObMhywmQqNfyXcAT68CE"
+YOUR_BOT_TOKEN = "6841906698:AAFutA0gnWCFPOQZO5cx02kpaVYwzx_pRzM"
 import re
 from telegram import Update
 from telegram.ext import Updater, MessageHandler, Filters, CallbackContext
